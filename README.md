@@ -39,6 +39,6 @@ Enjoy
 Kjell Hedstrom (hedstrom at kjellkod dot cc)
 
 
-###Reference:
+### Reference:
 1. https://www.codeproject.com/articles/43510/lock-free-single-producer-single-consumer-circular
 2. https://stackoverflow.com/questions/54268248/lock-free-single-producer-single-consumer-circular-buffer
